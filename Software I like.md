@@ -1,0 +1,20 @@
+- Obsidian
+- Signal
+- Raindrop
+- Feedbin
+- Overcast
+- Fastmail
+- Mastodon
+- Deno
+- Preact
+- Biorender - applied
+- Ghost - getting alerts
+- DataWrapper
+- OWID
+- Observable - US only
+- Bonfire Social (has an open science implementation!)
+- micro.blog
+- hypothes.is
+- eLife
+- PLOS
+- F1000

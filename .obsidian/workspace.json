@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "cc7124a34f90009f",
+    "type": "split",
+    "children": [
+      {
+        "id": "26e0f629e3dae2c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "544b8c496827f57c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-02-14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-14"
+            }
+          },
+          {
+            "id": "5a87559eb9755e02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-02-23.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-23"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53241469c962aebc",
+    "type": "split",
+    "children": [
+      {
+        "id": "87b503894f5456f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c7cdb558075ac6a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4bcb61747a88dfa8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5d1e0bee895d9521",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "894325ef882877f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "277973192b87e2ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "641175d273418e3e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2026-02-19.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-02-19"
+            }
+          },
+          {
+            "id": "7fd4533cb4d2d7d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LivingPixel '26.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from LivingPixel '26"
+            }
+          },
+          {
+            "id": "6764d6cf209c49c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "839d175928c74240",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "26a8e583ae4ac033",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LivingPixel '26.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of LivingPixel '26"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5a87559eb9755e02",
+  "lastOpenFiles": [
+    "Current-Electrical-compliance-platform-02-23-2026_02_03_PM.png",
+    "2026-02-19.md",
+    "2026-02-14.md",
+    "2026-02-05.md",
+    "2026-01-29.md",
+    "2026-01-22.md",
+    "2026-02-23.md",
+    "Quotes.md",
+    "Dweb.md",
+    "Square Job Search.md",
+    "Software I like.md",
+    "LivingPixel '26.md",
+    "Mission Statement.md",
+    "Scholarly Editor development and business plan.md",
+    "Side Work.md",
+    "Welcome.md"
+  ]
+}

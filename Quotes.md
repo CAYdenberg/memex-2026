@@ -1,0 +1,2 @@
+“I could not do this, I realized, if I were immortal. This degree of love of life and of one another is granted, I saw for once and for ever, not to immortals, but to those who live briefly and always under the shadow of death and loss.”
+― Dan Simmons, quote from The Rise of Endymion
